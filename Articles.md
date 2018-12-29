@@ -4,6 +4,5 @@
 - [Android Dev Tool: Best practice with StrictMode](https://android.jlelse.eu/android-dev-tool-best-practice-with-strictmode-a023e09030a5) 
 - [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree) 
 - [Supercharging your app development speed with custom file templates](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3) 
-  
-  
+  - [The Art of Android DevOps](https://blog.undabot.com/the-art-of-android-devops-fa29396bc9ee) 
   

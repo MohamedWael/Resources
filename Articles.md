@@ -9,4 +9,4 @@
 - [What is a purpose of Lambda's with Receiver in Kotlin, while we have extension functions ?](https://stackoverflow.com/questions/47329716/what-is-a-purpose-of-lambdas-with-receiver) 
 - [Kotlin type-safe Builders, the  lambda's with Receiver](https://kotlinlang.org/docs/reference/type-safe-builders.html)  
 - [Writing DSLs in Kotlin (part 1)](https://proandroiddev.com/writing-dsls-in-kotlin-part-1-7f5d2193f277)  
-
+- [Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  

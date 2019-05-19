@@ -11,3 +11,4 @@
 - [Writing DSLs in Kotlin (part 1)](https://proandroiddev.com/writing-dsls-in-kotlin-part-1-7f5d2193f277)  
 - [Distinguishing between the different ProGuard “-keep” directives](https://jebware.com/blog/?p=418)  
 - [Lazy Initialization in Kotlin](https://www.baeldung.com/kotlin-lazy-initialization) 
+- [Java Singleton Design Pattern Example](https://www.callicoder.com/java-singleton-design-pattern-example/) 

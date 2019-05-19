@@ -13,3 +13,4 @@
 - [Lazy Initialization in Kotlin](https://www.baeldung.com/kotlin-lazy-initialization) 
 - [Java Singleton Design Pattern Example](https://www.callicoder.com/java-singleton-design-pattern-example/) 
 - [Initialization-on-demand holder idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
+- [Exploring RXJava in Android — Different types of Observables](https://proandroiddev.com/exploring-rxjava-in-android-different-types-of-observables-f23b3c78aeb6)

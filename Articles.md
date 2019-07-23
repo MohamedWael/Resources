@@ -16,3 +16,5 @@
 - [Exploring RXJava in Android — Different types of Observables](https://proandroiddev.com/exploring-rxjava-in-android-different-types-of-observables-f23b3c78aeb6)
 - [Rx2Firebase : Firebase + RxJava [Android]](https://proandroiddev.com/rx2firebase-firebase-rxjava-android-bde8158fb4cf)
 - [Railway Oriented Programming in Kotlin](https://medium.com/@antonyharfield/railway-oriented-programming-in-kotlin-f1bceed399e5)
+- [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
+

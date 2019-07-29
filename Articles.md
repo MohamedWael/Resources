@@ -18,3 +18,4 @@
 - [Railway Oriented Programming in Kotlin](https://medium.com/@antonyharfield/railway-oriented-programming-in-kotlin-f1bceed399e5)
 - [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
 - [Coroutines in Kotlin 1.3 explained: Suspending functions, contexts, builders and scopes](https://antonioleiva.com/kotlin-coroutines/)
+- [Introduction to Coroutines and Channels](https://play.kotlinlang.org/hands-on/Introduction%20to%20Coroutines%20and%20Channels/01_Introduction)

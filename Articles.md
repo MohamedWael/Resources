@@ -21,3 +21,5 @@
 - [Introduction to Coroutines and Channels](https://play.kotlinlang.org/hands-on/Introduction%20to%20Coroutines%20and%20Channels/01_Introduction)
 - [Dagger 2 for Dummies in Kotlin (with 20 lines of code)](https://medium.com/@elye.project/dagger-2-for-dummies-in-kotlin-with-one-page-simple-code-project-618a5f9f2fe8)
 - [Dagger 2 for Dummies in Kotlin — provides and module](https://medium.com/@elye.project/dagger-2-for-dummies-in-kotlin-provides-and-module-b84dca1b0d03)
+- [Dagger Component Dependencies for Library Development]https://proandroiddev.com/dagger-component-dependencies-for-library-development-e2df7ce68233)
+- [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)

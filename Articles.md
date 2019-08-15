@@ -23,3 +23,4 @@
 - [Dagger 2 for Dummies in Kotlin — provides and module](https://medium.com/@elye.project/dagger-2-for-dummies-in-kotlin-provides-and-module-b84dca1b0d03)
 - [Dagger Component Dependencies for Library Development](https://proandroiddev.com/dagger-component-dependencies-for-library-development-e2df7ce68233)
 - [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)
+- [Unit testing with MutableLiveData](https://medium.com/pxhouse/unit-testing-with-mutablelivedata-22b3283a7819)

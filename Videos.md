@@ -1,1 +1,2 @@
 - [Model View View-Model (MVVM): Getting Started](https://www.youtube.com/watch?v=ijXjCtCXcN4)
+- [Android Kotlin: Forecast App 04 - Abstracting Retrofit Network Calls - MVVM Tutorial Course](https://www.youtube.com/watch?v=0Nzl2MyaGxU)

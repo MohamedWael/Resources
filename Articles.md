@@ -24,3 +24,4 @@
 - [Dagger Component Dependencies for Library Development](https://proandroiddev.com/dagger-component-dependencies-for-library-development-e2df7ce68233)
 - [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)
 - [Unit testing with MutableLiveData](https://medium.com/pxhouse/unit-testing-with-mutablelivedata-22b3283a7819)
+- [Breeze deep links with Android Architecture Components Navigation](https://android.jlelse.eu/breeze-deep-links-with-android-architecture-components-navigation-98cc8da83928)

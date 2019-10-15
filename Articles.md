@@ -25,3 +25,7 @@
 - [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)
 - [Unit testing with MutableLiveData](https://medium.com/pxhouse/unit-testing-with-mutablelivedata-22b3283a7819)
 - [Breeze deep links with Android Architecture Components Navigation](https://android.jlelse.eu/breeze-deep-links-with-android-architecture-components-navigation-98cc8da83928)
+- [Inline Functions in Kotlin](https://www.baeldung.com/kotlin-inline-functions)
+- [Creational Design Patterns in Kotlin: Builder](https://www.baeldung.com/kotlin-builder-pattern)
+
+

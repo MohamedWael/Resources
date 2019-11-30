@@ -1,5 +1,5 @@
 # Resources
-List of useful stuff I met on the internet 
+List of useful technical stuff I met on the internet 
 
 
 ### [Articles](https://github.com/MohamedWael/Resources/blob/master/Articles.md)

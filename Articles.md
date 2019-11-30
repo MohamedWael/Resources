@@ -27,5 +27,6 @@
 - [Breeze deep links with Android Architecture Components Navigation](https://android.jlelse.eu/breeze-deep-links-with-android-architecture-components-navigation-98cc8da83928)
 - [Inline Functions in Kotlin](https://www.baeldung.com/kotlin-inline-functions)
 - [Creational Design Patterns in Kotlin: Builder](https://www.baeldung.com/kotlin-builder-pattern)
+- [Exploring new Coroutines and Lifecycle Architectural Components integration on Android](https://medium.com/corouteam/exploring-kotlin-coroutines-and-lifecycle-architectural-components-integration-on-android-c63bb8a9156f)
 
 

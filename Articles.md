@@ -27,6 +27,7 @@
 - [Breeze deep links with Android Architecture Components Navigation](https://android.jlelse.eu/breeze-deep-links-with-android-architecture-components-navigation-98cc8da83928)
 - [Inline Functions in Kotlin](https://www.baeldung.com/kotlin-inline-functions)
 - [Creational Design Patterns in Kotlin: Builder](https://www.baeldung.com/kotlin-builder-pattern)
+- [Service Locator Pattern](https://www.baeldung.com/java-service-locator-pattern)
 - [Exploring new Coroutines and Lifecycle Architectural Components integration on Android](https://medium.com/corouteam/exploring-kotlin-coroutines-and-lifecycle-architectural-components-integration-on-android-c63bb8a9156f)
 - [Reliable API testing for Android with Retrofit and Mockito](https://mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
 - [Clean Architecture Tutorial for Android: Getting Started](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started#toc-anchor-012)

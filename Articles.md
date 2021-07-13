@@ -32,4 +32,5 @@
 - [Reliable API testing for Android with Retrofit and Mockito](https://mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
 - [Clean Architecture Tutorial for Android: Getting Started](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started#toc-anchor-012)
 - [Android livedata transformation with example | map and swicthmap](https://codinginfinite.com/android-livedata-transformation-example/)
+- [Android MVI-Reactive Architecture Pattern](https://abhiappmobiledeveloper.medium.com/android-mvi-reactive-architecture-pattern-74e5f1300a87)
 

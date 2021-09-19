@@ -35,4 +35,4 @@
 - [Android MVI-Reactive Architecture Pattern](https://abhiappmobiledeveloper.medium.com/android-mvi-reactive-architecture-pattern-74e5f1300a87)
 - [Coroutines and RxJava — An Asynchronicity Comparison Part 1](https://medium.com/capital-one-tech/coroutines-and-rxjava-an-asynchronicity-comparison-part-1-asynchronous-programming-e726a925342a)
 - [Coroutines and RxJava — An Asynchronicity Comparison (Part 2): Cancelling Execution](https://medium.com/capital-one-tech/coroutines-and-rxjava-an-asynchronicity-comparison-part-2-cancelling-execution-199485cdf068)
-
+- [Kotlin Multiplatform Project for Android and iOS: Getting Started](https://www.raywenderlich.com/19144111-kotlin-multiplatform-project-for-android-and-ios-getting-started)
